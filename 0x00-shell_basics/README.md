@@ -1,6 +1,2 @@
 clear
 script
-
-
-
-
